@@ -16,7 +16,6 @@ Here are some ideas to get ~you~ me started:
 - 😄 Possessive Pronouns: ... mine / yours / ours / theirs / his / hers/ its
 - 😄 Posessive Adjectives: ... My / Your / Our / Their / His / Her / Its
 - ⚡ Fun fact: ... A YouTuber once claimed himself Otz, although there was no DNA evidence to back it up...according to this video: https://www.youtube.com/watch?v=rWqiipJW9R8&ab_channel=notOtzdarva
-- 
 <!--
 **Tiramisu1th/Tiramisu1th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
