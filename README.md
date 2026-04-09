@@ -1,4 +1,6 @@
-**There had been a catastrophic fire incident in my country recently. If you want to know more, please visit** https://github.com/adminlby/Hong-Kong-Fire-Documentary
+## There had been a catastrophic fire incident in my country recently. If you want to know more, please visit
+
+https://github.com/adminlby/Hong-Kong-Fire-Documentary
 
 ## LGTM by Gemini 3.1 Pro
 ```
