@@ -52,7 +52,7 @@ Here are some ideas to get ~you~ me started:
 - 😄 Reflexive Pronouns: ... myself / yourself (yourselves) / ourselves / themselves / himself / herself / itself
 - 😄 Possessive Pronouns: ... mine / yours / ours / theirs / his / hers/ its
 - 😄 Posessive Adjectives: ... My / Your / Our / Their / His / Her / Its
-- ⚡ Fun fact: ... I am too lazt to even recite any GTO Range chart
+- ⚡ Fun fact: ... I am too lazy to even recite any GTO Range chart
 <!--
 **Tiramisu1th/Tiramisu1th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
