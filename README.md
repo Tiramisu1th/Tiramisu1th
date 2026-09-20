@@ -1,7 +1,3 @@
-## There had been a catastrophic fire incident in my country recently. If you want to know more, please visit
-
-https://github.com/adminlby/Hong-Kong-Fire-Documentary
-
 ## LGTM by Gemini 3.1 Pro
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -45,18 +41,18 @@ https://github.com/adminlby/Hong-Kong-Fire-Documentary
 
 Here are some ideas to get ~you~ me started:
 
-- 🔭 I’m currently working on ... unemployment
-- 🌱 I’m currently learning ... unemployment
-- 👯 I’m looking to collaborate on ... unemployment
-- 🤔 I’m looking for help with ... unemployment
-- 💬 Ask me about ... unemployment
+- 🔭 I’m currently working on ... Poker
+- 🌱 I’m currently learning ... Poker
+- 👯 I’m looking to collaborate on ... Poker
+- 🤔 I’m looking for help with ... Poker
+- 💬 Ask me about ... Poker
 - 📫 How to reach me: ... Discord: tiramisu_1th
 - 😄 Pronouns: ... I / You / We / They / He / She / It
 - 😄 Objective Pronouns: ... me / you / us / them / him / her / it
 - 😄 Reflexive Pronouns: ... myself / yourself (yourselves) / ourselves / themselves / himself / herself / itself
 - 😄 Possessive Pronouns: ... mine / yours / ours / theirs / his / hers/ its
 - 😄 Posessive Adjectives: ... My / Your / Our / Their / His / Her / Its
-- ⚡ Fun fact: ... Join JFFT is never too late
+- ⚡ Fun fact: ... I am too lazt to even recite any GTO Range chart
 <!--
 **Tiramisu1th/Tiramisu1th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
